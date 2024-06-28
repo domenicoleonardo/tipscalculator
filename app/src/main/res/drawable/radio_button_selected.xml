@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="#0B1216"
+        android:endColor="#01313B"
+        android:angle="0" />
+    <corners android:radius="20dp"/> <!-- Raio dos cantos arredondados -->
+</shape>
